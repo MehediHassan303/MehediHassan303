@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MehediHassan303
-- 👀 I’m interested in
+- 👋 Hi, I’m Mehedi Hassan Sohag
+- 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning basic webdevelopment.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mdmehedibd303@gmail.com
+- 💞️ I’m looking to collaborate on Github.
+- 📫 How to reach me mdmehedibd303@gmail.com
   
 
 
